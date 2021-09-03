@@ -1,5 +1,5 @@
 download data from here
-extract in Data folder
+extract in ./Data folder
 
 Run 
 ```
